@@ -6,7 +6,7 @@
 
 ## HTML
 
-1. [Test1](test1.md)   
+1. [Test1](/test1.md)   
 1. [Test2](issues.md)
 1. [Test3](video.md)
 
